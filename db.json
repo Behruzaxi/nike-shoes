@@ -1,0 +1,22 @@
+{
+    "data": [
+      {
+        "name": "NIKE AIR-JORDAN",
+        "description": "double-xl",
+        "img": "https://media.gq-magazine.co.uk/photos/621cbc0f73021b051fcbc729/master/w_1920,h_1280,c_limit/24022022_A_13.jpeg",
+        "price": "300$"
+      },
+      {
+        "name": "NIKE-JORDAN",
+        "description": "double-xl",
+        "img": "https://static.nike.com/a/images/c_limit,w_400,f_auto/t_product_v1/0e7fc8f3-76b7-4631-b147-4dad4b1ff241/image.jpg",
+        "price": "240$"
+      },
+      {
+        "name": "NIKE AIR-max",
+        "description": "double-xl",
+        "img": "https://images.stockx.com/images/Nike-Dunk-Low-SE-Lottery-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1662733640&q=75",
+        "price": "200$"
+      }
+    ]
+  }
